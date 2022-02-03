@@ -1,10 +1,10 @@
 <img align="right" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%" />
 
 
-Welcome to my Github page! I am Antonio and I am currently finishing my Bachelor of Chemistry degree at the Universidade Federal de São Paulo!  
+Welcome to my Github page! I am a Chemist persuing a new carrer as a Data Scientist.  
 
 #### 🌱 Things I am currently working on: 
-- Finish my Chemistry Ph.D. 
+- Finish my Chemistry Ph.D at the Universidade Federal de São Paulo. 
 - Taking online courses about Data Science and Machine Learning 
 <!-- - Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon* -->
 
